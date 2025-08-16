@@ -1,35 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sehar</h1>
-<h3 align="center">A passionate Android developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sehar326&label=Profile%20views&color=0e75b6&style=flat" alt="sehar326" /> </p>
+# 👩‍💻 Sehar Imran
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehar326" alt="sehar326" /></a> </p>
+Hi, I’m **Sehar Imran**, an aspiring IT professional passionate about **Android Development, Web Development, and Problem Solving**.  
+I love building real-world applications that help people in their daily lives. 🚀  
 
-- 🔭 I’m currently working on **Toolkit**
+---
 
-- 🌱 I’m currently learning **Python, ML/AI**
+## 🌐 Connect With Me
+- 📩 **Email:** seharimran6102@gmail.com  
+- 📱 **WhatsApp (Only):** +965 9440 8529  
+- 🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/seharimran6102)  
+- 💻 **GitHub:** [Click Here](https://github.com/Sehar326)  
 
-- 👯 I’m looking to collaborate on **Android Projects**
+---
 
-- 🤝 I’m looking for help with **Android**
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, C++  
+- **Android Development:** XML, Java, Firebase  
+- **Web Development:** HTML, CSS, JavaScript, PHP  
+- **Databases:** MySQL, Firebase  
+- **Tools:** Git, GitHub, VS Code, Android Studio  
 
-- 💬 Ask me about **Android**
+---
 
-- 📫 How to reach me **saharim6102@gmail.com**
+## 📂 My Projects
 
-- 📄 Know about my experiences [file:///C:/Users/LHR%20Laptop/AppData/Local/Microsoft/Windows/INetCache/IE/7P13CO07/sehar_resume_pk[1].pdf](file:///C:/Users/LHR%20Laptop/AppData/Local/Microsoft/Windows/INetCache/IE/7P13CO07/sehar_resume_pk[1].pdf)
+### 🔧 Find to Fix
+🚗 *An Online Mechanic Hiring App* – Hire mechanics anytime, anywhere, make payments online, and upload your profile.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sehar-hayyat-ab7aa82ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sehar-hayyat-ab7aa82ab" height="30" width="40" /></a>
-<a href="https://instagram.com/se.har7013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="se.har7013" height="30" width="40" /></a>
-</p>
+ Find To Fix logo
+![1000186061](https://github.com/user-attachments/assets/891bd384-f083-4fb2-b171-fadd9dc9ea4c)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehar326&show_icons=true&locale=en&layout=compact" alt="sehar326" /></p>
+### 🤝 Helping Hand
+🩸 *A Blood Bank App* – Connect donors and patients, making blood donations easier and faster.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehar326&show_icons=true&locale=en" alt="sehar326" /></p>
+![1000186063](https://github.com/user-attachments/assets/6e14c8b6-7683-4dbf-8d54-b2e09cbe32a4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehar326&" alt="sehar326" /></p>
+
+---
+
+## 📌 About Me
+✅ Passionate about solving real-world problems  
+✅ Always learning and exploring new technologies  
+
+---
+⭐ Feel free to check out my repositories and connect with me!
