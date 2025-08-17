@@ -8,7 +8,6 @@ I love building real-world applications that help people in their daily lives. �
 
 ## 🌐 Connect With Me
 - 📩 **Email:** seharimran6102@gmail.com  
-- 📱 **WhatsApp (Only):** +965 9440 8529  
 - 🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/seharimran6102)  
 - 💻 **GitHub:** [Click Here](https://github.com/Sehar326)  
 
